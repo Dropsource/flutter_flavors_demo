@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "808792113346",
+    "firebase_url": "https://flutter-flavors-dev-2aa2c.firebaseio.com",
+    "project_id": "flutter-flavors-dev-2aa2c",
+    "storage_bucket": "flutter-flavors-dev-2aa2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808792113346:android:a35d65c765236889",
+        "android_client_info": {
+          "package_name": "com.dropsource.flutterflavors.development"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808792113346-jm3hlnhkk389s5micqu1499oprmcojbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0D20WZhxiOy0VkWWo8S9B7HNeM5LDCqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808792113346-jm3hlnhkk389s5micqu1499oprmcojbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "808792113346-3urkjuco0cbq3msek02a52lvdhii0u1o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dropsource.flutterflavors.development"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

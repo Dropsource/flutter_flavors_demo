@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "285578887777",
+    "firebase_url": "https://fluttter-flavors-stage.firebaseio.com",
+    "project_id": "fluttter-flavors-stage",
+    "storage_bucket": "fluttter-flavors-stage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285578887777:android:b017412ba73456f5",
+        "android_client_info": {
+          "package_name": "com.dropsource.flutterflavors.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285578887777-ni6gjtnsmi0i2jdbq0qajmjagkq0l9m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8xz3gvfQqWzBWFNxTVxPWbfGPhl8wSD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285578887777-ni6gjtnsmi0i2jdbq0qajmjagkq0l9m8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285578887777-v07e8qi0dhgquocr67v4ra9j4gf2g9io.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dropsource.flutterflavors.staging"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
